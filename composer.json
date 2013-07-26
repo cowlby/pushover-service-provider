@@ -1,5 +1,5 @@
 {
-	"name" : "cowlby/pushover-service-providere",
+	"name" : "cowlby/pushover-service-provider",
 	"description" : "Silex pushover service provider.",
 	"type" : "library",
 	"authors" : [{
