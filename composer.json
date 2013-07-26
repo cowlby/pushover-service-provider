@@ -16,7 +16,7 @@
 		"MIT"
 	],
 	"require" : {
-		"cowlby/php-pushover-bindings" : "~1.0",
+		"cowlby/php-pushover-bindings" : "~1",
 		"silex/silex" : "~1"
 	},
 	"autoload" : {
