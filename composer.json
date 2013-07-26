@@ -1,0 +1,33 @@
+{
+	"name" : "cowlby/pushover-service-providere",
+	"description" : "Silex pushover service provider.",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Jose Prado",
+			"email" : "cowlby@me.com"
+		}
+	],
+	"keywords" : [
+		"logging",
+		"pushover",
+		"silex provider"
+	],
+	"license" : [
+		"MIT"
+	],
+	"require" : {
+		"cowlby/php-pushover-bindings" : "~1.0",
+		"silex/silex" : "~1.1"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Cowlby\\Silex\\Provider" : "src/"
+		}
+	},
+	"support" : {
+		"source" : "https://github.com/cowlby/pushover-service-provider",
+		"email" : "cowlby@me.com",
+		"issues" : "https://github.com/cowlby/pushover-service-provider/issues",
+		"wiki" : "https://github.com/cowlby/pushover-service-provider/wiki"
+	}
+}
